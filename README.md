@@ -43,6 +43,11 @@ Using the combined dataset of trader performance and market sentiment, insights 
 
 ---
 
+## 🖼️ Dashboard Preview
+![Dashboard Preview](Dashboard.png)
+
+---
+
 ## 📈 Results
 - Extracted trader sentiment patterns from raw trade and sentiment data  
 - Built a **Power BI dashboard** visualizing profit trends, trade volumes, and sentiment correlations  
