@@ -41,6 +41,10 @@ Using the combined dataset of trader performance and market sentiment, insights 
 | `sentiment_profitability_summary.csv` | Summary: sentiment vs profit |
 | `sentiment_activity_summary.csv` | Summary: sentiment vs activity |
 
+---
+
+## 🖼️ Dashboard Preview
+![Dashboard Preview](Dashboard.png)
 
 ---
 
